@@ -21,8 +21,15 @@ uniform1_mass_sfr_sample.csv
 dapall-v3_1_1-3.1.0.fits
 ```
 
-Required CSV column: plateifu
-Optional CSV column: SFR_1RE, written to the FITS header if present
+Required CSV column:
+
+```text
+plateifu
+```
+Optional CSV column:
+
+```text
+SFR_1RE, written to the FITS header if present
 ```
 
 ## Requirements
