@@ -2,6 +2,8 @@
 
 ## Overview
 
+_This work is made possible thanks to NSF grant 2510739._
+
 This pipeline has two scripts:
 
 1. `galaxy_stacking.py`  
