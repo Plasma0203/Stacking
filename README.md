@@ -111,3 +111,16 @@ For Halpha, the output also includes continuum and equivalent-width measurements
 - `galaxy_stacking.py` must be run before `gaussian_fit_stacked.py`.
 - Existing stacked FITS files are skipped automatically.
 - `spectres` is recommended because it performs flux-conserving resampling.
+
+
+## Credits
+Selected parts of the stacking code were adapted from code originally developed by Amir H. Khoram for the spectral-stacking analysis presented in:
+
+Khoram, A. H., & Belfiore, F. 2025, Astronomy & Astrophysics, 693, A150,
+
+“Direct-method metallicity gradients derived from spectral stacking with SDSS-IV MaNGA.”
+
+doi: 10.1051/0004-6361/202451980
+
+
+
