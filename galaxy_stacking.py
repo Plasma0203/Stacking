@@ -9,8 +9,8 @@ table. The stacks are intended for weak emission-line measurements and
 ionization diagnostics.
 
 Stacking is done over spaxels WITHIN each galaxy (one stacked spectrum per
-galaxy), not across galaxies. The deprojection helper is adapted from code by
-Amir Musaeva.
+galaxy), not across galaxies. Selected parts of the code is adapted from code by
+Amir H. Khoram.
 
 Pipeline per galaxy
 -------------------
